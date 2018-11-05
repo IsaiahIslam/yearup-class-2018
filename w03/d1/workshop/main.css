@@ -1,0 +1,22 @@
+#section1
+{background-color:#d63031;
+height:800px;}
+
+#section2
+{background-color:#fdcb6e;
+height:800px}
+
+#section3
+{background-color:#74b9ff;
+height:800px}
+
+#section4
+{background-color:#636e72;
+height:800px}
+
+.img
+{float: left;
+width: 500px}
+
+.para
+{float: right;}
